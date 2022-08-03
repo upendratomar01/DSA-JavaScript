@@ -1,3 +1,8 @@
+// TC - Insertion - O(1)
+// TC - Removal   - O(1) or O(n)
+// TC - Searching - O(n)
+// TC - Access    - O(n)
+
 class Node {
   constructor(val) {
     this.val = val;
